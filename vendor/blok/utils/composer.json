@@ -1,0 +1,27 @@
+{
+    "name": "blok/utils",
+    "description": "A series of utilites class for PHP",
+    "keywords": ["laravel", "framework", "utilities", "blok"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Co-Labs",
+        "email": "info@co-labs.be",
+        "homepage": "http://www.co-labs.be"
+    }],
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Blok\\Utils\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+
+        }
+    }
+}
